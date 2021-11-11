@@ -1,0 +1,8 @@
+Datacomp
+.ipynb_checkpoints/
+.idea
+*.pyc
+results
+dataset.zip
+best.pt
+*.zip
